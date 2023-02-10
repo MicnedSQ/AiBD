@@ -1,0 +1,15 @@
+Kolumna 1 (MX000017004YYYYMMIIII):
+    - MX000017004 - ID stacji pogodowej
+    - YYYY - rok, w którym został zebrany pomiar
+    - MM - miesiąc, w którym został zebrany pomiar
+    - IIII - typ zebranych danych:
+        - TMAX - maksymalna temperatura w danym dniu wyrażona z stopniach Celsjusza
+        - TMIN - minimalna temperatura w danym dniu wyrażona z stopniach Celsjusza
+        - PRCP - wartość opadów w danym dniu wyrażona w milimetrach
+
+Kolumny od 2 do 32 - pomiary zebrane ze stacji pogodowej w każdym dniu miesiąca
+
+Specjalne oznaczenia:
+    - 9999 - brak zebranych danych
+    - I - dane zebrane poza Meksykiem
+    - S - globalne podsumowanie dnia
